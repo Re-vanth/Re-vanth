@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://giphy.com/embed/0IxONYHUw0vikYuAoL" width="50" height="50">
+<img src="https://media1.giphy.com/media/0IxONYHUw0vikYuAoL/giphy.gif?cid=790b76117797bca39be4cdc06717cdeb7581baac68ab0a0f&rid=giphy.gif&ct=s" width="50" height="50">
 
-<div style="width:25%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/0IxONYHUw0vikYuAoL" width="20%" height="20%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meroware-wave-hand-merohand-0IxONYHUw0vikYuAoL">via GIPHY</a></p>
+
 
 ## I'm Revanth.
 
